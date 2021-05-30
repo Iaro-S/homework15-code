@@ -61,7 +61,6 @@ public class ConvertTemperatureTest {
         assertThat(convertTemperature.fahrenheitToKelvin(0)).isEqualTo(255.37,offset(0.1));
         assertThat(convertTemperature.fahrenheitToKelvin(-100)).isEqualTo(199.816,offset(0.1));
         assertThat(convertTemperature.fahrenheitToKelvin(100)).isEqualTo(310.927,offset(0.1));
-
     }
 }
 

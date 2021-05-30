@@ -1,4 +1,4 @@
-package ro.fasttrackit.homework15;
+package ro.fasttrackit.homework15.recursivity;
 
 public class Recursivitate {
     public int sumFirstInteger(int n) {

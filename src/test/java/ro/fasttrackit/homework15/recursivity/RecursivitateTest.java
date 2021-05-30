@@ -1,4 +1,4 @@
-package ro.fasttrackit.homework15;
+package ro.fasttrackit.homework15.recursivity;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
