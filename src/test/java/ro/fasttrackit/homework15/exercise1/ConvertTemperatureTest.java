@@ -1,8 +1,9 @@
-package ro.fasttrackit.homework15;
+package ro.fasttrackit.homework15.exercise1;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import ro.fasttrackit.homework15.exercise1.ConvertTemperature;
 
 import static org.assertj.core.api.Assertions.offset;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;

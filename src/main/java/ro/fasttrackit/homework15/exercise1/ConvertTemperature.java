@@ -1,4 +1,4 @@
-package ro.fasttrackit.homework15;
+package ro.fasttrackit.homework15.exercise1;
 
 public class ConvertTemperature {
 
