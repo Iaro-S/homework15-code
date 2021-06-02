@@ -1,5 +1,8 @@
 package ro.fasttrackit.homework15.exercise2;
 
+/*mai am de lucru pe partea de exceptii/testing,in masura
+ in care finalizez o sa dau commit si la restul exercitiului*/
+
 import java.util.ArrayList;
 import java.util.List;
 
